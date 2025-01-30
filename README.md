@@ -1,6 +1,6 @@
 # Admin Panel
 
-- - This project includes a simple Admin Panel built using HTML, CSS and Javascript.The project offers a basic admin interface.
+-  This project includes a simple Admin Panel built using HTML, CSS and Javascript.The project offers a basic admin interface.
 
 # Preview
 
@@ -8,15 +8,15 @@
 
 # Properties
 
-- A user-friendly and sleek design
-- Full Responsive Structure
-- The project consists of sections with drop-down menu, table, recent orders and information about the admin.
+- - A user-friendly and sleek design
+- - Full Responsive Structure
+- - The project consists of sections with drop-down menu, table, recent orders and information about the admin.
 
 # Technologies Used
 
-- HTML
-- CSS
-- JAVASCRİPT
+- - HTML
+- - CSS
+- - JAVASCRİPT
 
 
 
